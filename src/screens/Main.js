@@ -56,7 +56,7 @@ export default class Main extends Component {
           fontWeight: '700', 
           color: 'white'
           }}>
-          Cash Request
+          Cash Request 2
         </Text>
       </View>
     );
